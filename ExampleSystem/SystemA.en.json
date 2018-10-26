@@ -1,6 +1,6 @@
 {
-  "home_title" : "Example Title",
-  "welcome" : "Welcome to Example",
-  "footer" : "SystemA is a registered trademark",
-  "image_A_url" : "www.systemA.com/en/image.jpg"
+  "home_title": "Example Title",
+  "welcome": "Welcome to Example",
+  "footer": "SystemA is a registered trademark",
+  "image_A_url": "www.systemA.com/en/image.jpg"
 }
