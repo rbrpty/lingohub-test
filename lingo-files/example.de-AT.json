@@ -1,0 +1,11 @@
+{
+  "welcome": "Hurra, du bist hier! Der Tag ist noch besser geworden - genießen Sie die folgenden Tipps!",
+  "text_segment": "Ein Abschnitt des Textes wie dieser ist als ein Textsegment bekannt. Starten Sie Ihre Übersetzungen rocken jetzt '!",
+  "tab_shortcut": "Arriba, Arriba! Andale Andale! Seien Sie schnell, wie Speedy Gonzales. Hit TAB einfach zu speichern und zum nächsten Textsegment gehen, sobald Sie fertig sind.",
+  "statuses": "Houston, haben wir kein Problem. Behalten Sie den Überblick über den Fortschritt Ihrer Übersetzungen von Status zu jeder Zeit.",
+  "status_shortcut": "Sie können den Status ändern, indem Sie eine der Shortcut-Tasten: z STRG + K = übersetzt.\n Sie können andere Verknüpfungen zu sehen, indem Sie STRG + H drücken!",
+  "placeholder_lingochecks": "Wir möchten nur dich glücklich zu sehen, das ist, warum LingoChecks automatisch Übersetzungen prüfen vorgegebenen Kriterien.\n Unter anderem prüft prüft LingoHub wenn {{placeholders}}im Originaltext verwendet in setzten Texte auch vorhanden sind.",
+  "side_panel": "Zeit vergeht, wenn für Kontextinformationen zu suchen. In der Seitenwand können Sie weitere Informationen hinzufügen, die dieses Textsegment hilft zu übersetzen.",
+  "comments": "Kommentare in einer Datei (je nach Dateityp) werden bei der Einfuhr enthalten die Übersetzer mit mehr Informationen zur Verfügung zu stellen. Sie werden als eine Beschreibung, sichtbar in der Seitenwand importiert.",
+  "love": "Hergestellt mit ❤"
+}
